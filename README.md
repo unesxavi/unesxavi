@@ -1,5 +1,11 @@
 ### Hi 👋, I'm Youness Ezzanz
 
+🌱 I’m currently learning ES6, ReactJs & GraghQL.
+
+👯 I’m looking to collaborate on openSource projects.
+
+📫 How to reach me uness.informatique@gmail.com
+
 <!--
 **unesxavi/unesxavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
