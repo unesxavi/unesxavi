@@ -1,6 +1,6 @@
 # <p align="center">Hi 👋, I'm Youness Ezzanz</p>
 
-### A Passionate Backend Developer
+### <p align="center">A Passionate Backend Developer</p>
 
 🌱 I’m currently learning ES6, ReactJs & GraghQL.
 
