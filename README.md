@@ -8,7 +8,7 @@
 
  * 📫 How to reach me uness.informatique@gmail.com
 
-**Connect with me:**
+#### **Connect with me:**
 
 <!--
 **unesxavi/unesxavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
