@@ -15,4 +15,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,html,css,js,ts,nodejs,react,redux,nestjs,nuxtjs,jquery,php,wordpress,laravel,symfony,mysql,mongodb,postman,git,github,gitlab,vscode,dart,dotnet&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,html,css,js,jquery,php,wordpress,mysql,postman,git,github,gitlab,vscode,dart&theme=dark)](https://skillicons.dev)
